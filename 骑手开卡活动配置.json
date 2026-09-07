@@ -1,0 +1,78 @@
+{
+  "brand": {
+    "name": "美团骑手代发 · 自由薪专属活动",
+    "visible": true
+  },
+  "hero": {
+    "title": "工资到账，福利也别错过",
+    "subtitle": "",
+    "visible": true
+  },
+  "choice": {
+    "title": "你现在想办理？",
+    "savingsLabel": "储蓄卡",
+    "savingsDesc": "日常收款｜提现｜消费",
+    "savingsButton": "看看我能享受什么 ›",
+    "creditLabel": "信用卡",
+    "creditDesc": "临时应急｜日常消费",
+    "creditButton": "看看我能享受什么 ›",
+    "comboLabel": "储蓄卡＋信用卡",
+    "comboDesc": "日常使用＋应急备用",
+    "comboButton": "看看组合权益 ›",
+    "visible": true
+  },
+  "benefits": {
+    "title": "当前可享权益",
+    "items": "🧧|最高218元|储蓄卡专属奖励|完成指定活动条件后领取\n🎁|最高180元|信用卡专属奖励|核卡并完成指定任务\n📈|新客加享|资产提升权益|符合条件的客户可参与",
+    "visible": true
+  },
+  "action": {
+    "text": "30秒看一下，我能拿什么？",
+    "visible": false
+  },
+  "match": {
+    "title": "算算这次最多能拿多少？",
+    "subtitle": "本人达标最高领218元，每成功直接转介1人再得80元",
+    "threshold": "1",
+    "personalReward": "218",
+    "referralReward": "80",
+    "mainName": "A",
+    "referralNames": "B\nC",
+    "savingButton": "立即办理储蓄卡",
+    "savingLink": "",
+    "visible": false
+  },
+  "savings": {
+    "title": "办工资卡，完成任务最高领",
+    "amount": "218",
+    "button": "立即办理储蓄卡",
+    "tasks": "开卡/激活任务|完成指定开卡及激活要求|¥__\n首笔入账/代发任务|在规定期限内完成指定入账|¥__\n支付/绑卡任务|完成指定支付或绑卡任务|¥__",
+    "visible": false
+  },
+  "credit": {
+    "title": "日常消费多一份选择，最高领",
+    "amount": "180",
+    "button": "自愿申请信用卡",
+    "tasks": "新户核卡/激活|按要求完成核卡与激活|¥__\n首刷/消费任务|在规定期限内完成指定消费|¥__",
+    "visible": false
+  },
+  "guide": {
+    "title": "办理前准备",
+    "items": "准备本人有效身份证和实名手机号\n按需选择储蓄卡或信用卡\n通过银行官方入口提交申请\n按页面提示完成任务并查询奖励",
+    "visible": true
+  },
+  "faq": {
+    "title": "常见问题",
+    "items": "是不是开卡就能拿218元？|不是简单“开卡即得”，需完成页面列明的指定任务。\n信用卡一定能批吗？|不一定，是否获批及额度以银行最终审批为准。\n两张卡都必须办吗？|不必须，储蓄卡与信用卡分别选择，信用卡不与工资卡捆绑。\n奖励什么时候到账？|达到条件后预计在规则约定时间内发放，具体以活动页面为准。",
+    "visible": false
+  },
+  "qr": {
+    "label": "扫码查看领取条件并办理",
+    "image": "",
+    "visible": false
+  },
+  "legal": {
+    "text": "奖励需完成指定任务后领取；信用卡为自愿申请，审批结果及额度以银行最终审核为准。活动对象、期限、名额、奖励发放及其他详情以活动页面正式规则为准。请认准银行官方渠道，工作人员不会索要支付密码或短信验证码。",
+    "visible": true
+  }
+}
